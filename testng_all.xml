@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.autoexer.utility.ListenerClass"></listener>
+	</listeners>
+	<!-- run all testcases through the testng_all.xml -->
+	<test thread-count="5" name="Test_All">
+		<parameter name="browser" value="Chrome"></parameter>
+		<classes>
+			<class name="com.autoexer.testcases.HomepageTest" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
