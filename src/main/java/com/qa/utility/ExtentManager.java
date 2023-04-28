@@ -1,12 +1,10 @@
 package com.qa.utility;
 
-public class ExtentManager {
 
-}
 /**
  * 
  */
-package com.autoexer.utility;
+
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;

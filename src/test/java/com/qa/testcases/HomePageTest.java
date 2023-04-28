@@ -1,28 +1,21 @@
 package com.qa.testcases;
 
-public class HomePageTest {
-
-}
-/**
- * 
- */
-package com.autoexer.testcases;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import com.autoexer.actiondriver.Action;
-import com.autoexer.base.Base;
-import com.autoexer.pages.HomePage;
-import com.autoexer.utility.Log;
+import com.qa.actiondriver.Action;
+import com.qa.base.Base;
+import com.qa.pages.HomePage;
+import com.qa.utility.Log;
 
 /**
  * @author mahendar
  *
  */
-public class HomepageTest extends Base {
+public class HomePageTest extends Base {
   
 	HomePage homePage;
 	Action action;

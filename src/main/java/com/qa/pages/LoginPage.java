@@ -1,17 +1,13 @@
 package com.qa.pages;
 
-public class LoginPage {
-
-}
-package com.autoexer.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.autoexer.actiondriver.Action;
-import com.autoexer.base.Base;
+import com.qa.actiondriver.Action;
+import com.qa.base.Base;
 
 public class LoginPage extends Base  {
 

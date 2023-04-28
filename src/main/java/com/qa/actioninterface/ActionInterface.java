@@ -1,11 +1,4 @@
 package com.qa.actioninterface;
-
-public interface ActionInterface {
-
-}
-package com.autoexer.actioninterface;
-
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 

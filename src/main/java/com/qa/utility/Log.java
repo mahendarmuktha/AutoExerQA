@@ -1,12 +1,5 @@
 package com.qa.utility;
 
-public class Log {
-
-}
-/**
- * 
- */
-package com.autoexer.utility;
 
 import org.apache.log4j.Logger;
 

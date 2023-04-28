@@ -1,12 +1,10 @@
 package com.qa.dataprovider;
 
-public class DataProviders {
 
-}
 /**
  * 
  */
-package com.autoexer.dataprovider;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -15,7 +13,7 @@ import java.util.Map;
 
 import org.testng.annotations.DataProvider;
 
-import com.autoexer.utility.NewExcelLibrary;
+import com.qa.utility.*;
 
 /**
  * @author mahendar

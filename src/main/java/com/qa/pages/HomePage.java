@@ -1,17 +1,12 @@
 package com.qa.pages;
 
-public class HomePage {
-
-}
-package com.autoexer.pages;
-
 import org.openqa.selenium.WebElement;
 
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.autoexer.actiondriver.Action;
-import com.autoexer.base.Base;
+import com.qa.actiondriver.Action;
+import com.qa.base.Base;
 
 public class HomePage extends Base {
 	

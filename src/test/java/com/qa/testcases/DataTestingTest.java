@@ -1,11 +1,9 @@
 package com.qa.testcases;
 
-public class DataTestingTest {
-
-}
-package com.autoexer.testcases;
 
 import org.testng.annotations.Test;
+
+import com.qa.dataprovider.DataProviders;
 
 public class DataTestingTest {
 	

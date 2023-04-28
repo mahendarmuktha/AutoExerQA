@@ -1,12 +1,6 @@
 package com.qa.utility;
 
-public class ListenerClass {
 
-}
-/**
- * 
- */
-package com.autoexer.utility;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,13 +9,13 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import com.autoexer.actiondriver.Action;
-import com.autoexer.base.Base;
+import com.qa.actiondriver.Action;
+import com.qa.base.Base;
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
-import com.autoexer.base.*;
+import com.qa.base.*;
 
 /**
  * @author mahendar

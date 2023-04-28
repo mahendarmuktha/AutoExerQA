@@ -7,11 +7,6 @@ package com.qa.actiondriver;
  * @author mahendar
  *
  */
-public class Action {
-
-}
-package com.autoexer.actiondriver;
-
 
 import java.io.File;
 import java.text.SimpleDateFormat;
@@ -36,8 +31,9 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.autoexer.actioninterface.ActionInterface;
-import com.autoexer.base.Base;
+import com.qa.base.*;
+import com.qa.actioninterface.*;
+
 
 public class Action extends Base implements ActionInterface {
 

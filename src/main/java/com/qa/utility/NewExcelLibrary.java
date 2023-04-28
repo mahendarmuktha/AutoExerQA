@@ -1,12 +1,5 @@
 package com.qa.utility;
 
-public class NewExcelLibrary {
-
-}
-/**
- * 
- */
-package com.autoexer.utility;
 
 /**
  * @author mahendar
